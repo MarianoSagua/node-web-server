@@ -1,1 +1,1 @@
-Aplicacion de practica de node js
+1. Clonar el .env.template y crear el .env
